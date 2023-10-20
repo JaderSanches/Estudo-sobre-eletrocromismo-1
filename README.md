@@ -6,7 +6,7 @@
 
  <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  
 </picture>
 
  O efeito **eletrocrômico** é observado em alguns materiais, sua descoberta é relativamente recente e as aplicações previstas incluem, mudança de cor e transparência que podem servir de modos de iluminação de interiores, acessórios informativos em espelhos ou display de celulares, tablets, smarth TV óculos de sol, evolução de um novo conceito em equipamentos de informática. Materiais eletrocrômicos tem a capacidade de alterar suas propriedades ópticas, de modo reversível conforme aplicamos uma diferença de potencial. 
