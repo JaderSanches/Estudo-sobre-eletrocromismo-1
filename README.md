@@ -8,16 +8,16 @@
 
 ## Quais são as principais substâncias eletrocrômicas?
  Como é apresentado no artigo de *Juliana Ramos de Andrade* numa pesquisa desenvolvida pelo Instituto de Química de São Carlos da Universidade de São Paulo em 2015: A mudança de coloração ocorre nesses materiais devido a presença de moléculas cromógenas. No caso da pesquisa foram utilizados filmes finos eletrocrômicos de:
- * (WO3) Óxido de Tungstênio,
- * (WoO3) Óxido de Molibdênio 
+ * (WO<sub>3) Óxido de Tungstênio,
+ * (WoO<sub>3) Óxido de Molibdênio 
  * PEDOT:PSS. 
- * (TiO2) Dióxido de Titânio 
- * Pentóxido de Nióbio (Nb2O5) 
+ * (TiO<sub>2) Dióxido de Titânio 
+ * Pentóxido de Nióbio (Nb<sub>2O5) 
  * Poli(3, 4-etilenodióxitiofeno) 
  * PEDOT, Poli(3-metiltiofeno) PMT 
  * Poli(vinil-butirato) 
  * PVB, Pectina, 
- * Sorvitol (LiClO4) 
+ * Sorvitol (LiClO<sub>4) 
  * Hidroxipropilcelulose (HPC) 
  
  e outras substâncias que nos últimos anos estão começando a serem usadas em testes nos laboratórios.
