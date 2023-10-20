@@ -7,7 +7,7 @@
  O efeito **eletrocrômico** é observado em alguns materiais, sua descoberta é relativamente recente e as aplicações previstas incluem, mudança de cor e transparência que podem servir de modos de iluminação de interiores, acessórios informativos em espelhos ou display de celulares, tablets, smarth TV óculos de sol, evolução de um novo conceito em equipamentos de informática. Materiais eletrocrômicos tem a capacidade de alterar suas propriedades ópticas, de modo reversível conforme aplicamos uma diferença de potencial. 
 
 ## Quais são as principais substâncias eletrocrômicas?
- Como é apresentado no artigo de * * Juliana Ramos de Andrade * * numa pesquisa desenvolvida pelo Instituto de Química de São Carlos da Universidade de São Paulo em 2015: A mudança de coloração ocorre nesses materiais devido a presença de moléculas cromógenas. No caso da pesquisa foram utilizados filmes finos eletrocrômicos de:
+ Como é apresentado no artigo de * Juliana Ramos de Andrade * numa pesquisa desenvolvida pelo Instituto de Química de São Carlos da Universidade de São Paulo em 2015: A mudança de coloração ocorre nesses materiais devido a presença de moléculas cromógenas. No caso da pesquisa foram utilizados filmes finos eletrocrômicos de:
  * (WO3) Óxido de Tungstênio,
  * (WoO3) Óxido de Molibdênio 
  * PEDOT:PSS. 
