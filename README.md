@@ -1,4 +1,4 @@
-# Estudo-sobre-eletrocromismo
+# Estudo sobre eletrocromismo
 ## Jader Rafaelli Capilé Sanches
 
  A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia, as descobertas que envolvem as propriedades dos materiais podem auxiliar em funcionalidades amplas e inesperadas.
