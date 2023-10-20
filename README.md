@@ -4,9 +4,8 @@
  A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia, as descobertas que envolvem as propriedades dos materiais podem auxiliar em funcionalidades amplas e inesperadas.
  Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na transmissão elétrica, são essenciais para a existência de processos de pesquisa, economia de energia, agilidade em envio de informações, nanotecnologia, metamateriais, ergonomia em ambientes tanto domésticos quanto industriais e culminando no ambicioso conceito de cidades inteligentes.
 
- <picture>
    ![](http://i.imgur.com/IMTN5cy.png)  
-</picture>
+
 </br>
  O efeito **eletrocrômico** é observado em alguns materiais, sua descoberta é relativamente recente e as aplicações previstas incluem, mudança de cor e transparência que podem servir de modos de iluminação de interiores, acessórios informativos em espelhos ou display de celulares, tablets, smarth TV óculos de sol, evolução de um novo conceito em equipamentos de informática. Materiais eletrocrômicos tem a capacidade de alterar suas propriedades ópticas, de modo reversível conforme aplicamos uma diferença de potencial. 
 
