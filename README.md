@@ -23,5 +23,5 @@
  e outras substâncias que nos últimos anos estão começando a serem usadas em testes nos laboratórios.
  
 ## Porque pesquisar eletrocrômismo é importante?
- A proposta da realização de uma pesquisa em materiais eletrocrômicos </br>na atualidade consiste em averiguar a eficiência desses e outros materiais </br>com o objetivo de controlar sua luminosidade, cor, transparência, refração e outros atributos de interesse</br> na indústria da informática, gadets e acessórios que visam facilitar a rotina de cientistas</br> e cidadãos visando fortalecer a competitividade brasileira perante o mercado </br>de tecnologia estrangeiro e melhoria do nosso estilo de vida moderno. 
+ A proposta da realização de uma pesquisa em materiais eletrocrômicos </br>na atualidade consiste em averiguar a eficiência desses e outros materiais com o objetivo </br>de controlar sua luminosidade, cor, transparência, refração e outros atributos de interesse</br> na indústria da informática, gadets e acessórios que visam facilitar a rotina de cientistas</br> e cidadãos visando fortalecer a competitividade brasileira perante o mercado </br>de tecnologia estrangeiro e melhoria do nosso estilo de vida moderno. 
 
