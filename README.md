@@ -2,8 +2,7 @@
 ## Jader Rafaelli Capilé Sanches
 
  A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia,</br>
- as descobertas que envolvem as propriedades dos materiais podem auxiliar </br>
- em funcionalidades amplas e inesperadas.
+ as descobertas que envolvem as propriedades dos materiais podem auxiliar em funcionalidades amplas e inesperadas.</br>
  Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na transmissão elétrica,</br>
  são essenciais para a existência de processos de pesquisa, economia de energia, agilidade em envio de informações, </br>
  nanotecnologia, metamateriais, ergonomia em ambientes tanto domésticos quanto industriais </br>
@@ -19,8 +18,9 @@
 
  O efeito **eletrocrômico** é observado em alguns materiais, sua descoberta é relativamente recente </br>
  e as aplicações previstas incluem, mudança de cor e transparência que podem servir de modos de iluminação de interiores, </br>
- acessórios informativos em espelhos ou display de celulares, tablets, smarth TV óculos de sol, evolução de um novo conceito em </br>
- equipamentos de informática. Materiais eletrocrômicos tem a capacidade de alterar suas propriedades ópticas, de modo reversível </br> conforme aplicamos uma diferença de potencial. 
+ acessórios informativos em espelhos ou display de celulares, tablets, smarth TV óculos de sol, evolução de um novo conceito </br>
+ em equipamentos de informática. Materiais eletrocrômicos tem a capacidade de alterar suas propriedades ópticas, </br> 
+ de modo reversível  conforme aplicamos uma diferença de potencial. 
 
 ## Quais são as principais substâncias eletrocrômicas?
  Como é apresentado no artigo de *Juliana Ramos de Andrade* numa pesquisa desenvolvida</br>
