@@ -1,8 +1,8 @@
 # Estudo sobre eletrocromismo
 ## Jader Rafaelli Capilé Sanches
 
- A evolução da tecnologia tem impressionado a humanidade com centenas de inventos </br>
- que surgem a cada dia, as descobertas que envolvem as propriedades dos materiais podem auxiliar </br>
+ A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia,</br>
+ as descobertas que envolvem as propriedades dos materiais podem auxiliar </br>
  em funcionalidades amplas e inesperadas.
  Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na transmissão elétrica,</br>
  são essenciais para a existência de processos de pesquisa, economia de energia, agilidade em envio de informações, </br>
