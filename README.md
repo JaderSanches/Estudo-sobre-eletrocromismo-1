@@ -11,7 +11,7 @@
 </div>
 
 </br>
-
+<div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Electrochromic_devices_in_bleach_state%2C_The_MSU_Baroda%2C_India.jpg"  width="200" height="200">
     
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Electrochromic_devices_in_color_state%2C_The_MSU_Baroda%2C_India.jpg"   left="300" width="200" height="200" >
