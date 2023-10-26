@@ -1,7 +1,7 @@
 # Estudo sobre eletrocromismo
 ## Jader Rafaelli Capilé Sanches
-<div height="300" width="300" style="background-color:red;">
-<p alingn="Justify">
+<div height="300" width="300" ">
+<p alingn="Justify" style="background-color:red;>
  A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia,
  as descobertas que envolvem as propriedades dos materiais podem auxiliar em funcionalidades amplas e inesperadas.
  Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na transmissão elétrica,
