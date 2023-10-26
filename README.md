@@ -4,7 +4,7 @@
 <p align="Justify" >
  A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia,</br>
  as descobertas que envolvem as propriedades dos materiais podem auxiliar em funcionalidades amplas e inesperadas.</br>
- Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na **transmissão elétrica** são essenciais </br>
+ Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na *transmissão elétrica* são essenciais </br>
  para a existência de processos de pesquisa, economia de energia, agilidade em envio de informações, </br>
  nanotecnologia, metamateriais, ergonomia em ambientes tanto domésticos quanto industriais </br>
  e culminando no ambicioso conceito de cidades inteligentes. 
