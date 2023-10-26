@@ -6,7 +6,7 @@
  </br>
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Electrochromic_devices_in_bleach_state%2C_The_MSU_Baroda%2C_India.jpg" width="200" height="200">
  
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Electrochromic_devices_in_color_state%2C_The_MSU_Baroda%2C_India.jpg" width="200" height="200">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Electrochromic_devices_in_color_state%2C_The_MSU_Baroda%2C_India.jpg" width="200" height="200" left="300">
 </br>
  O efeito **eletrocrômico** é observado em alguns materiais, sua descoberta é relativamente recente e as aplicações previstas incluem, mudança de cor e transparência que podem servir de modos de iluminação de interiores, acessórios informativos em espelhos ou display de celulares, tablets, smarth TV óculos de sol, evolução de um novo conceito em equipamentos de informática. Materiais eletrocrômicos tem a capacidade de alterar suas propriedades ópticas, de modo reversível conforme aplicamos uma diferença de potencial. 
 
