@@ -2,14 +2,13 @@
 ## Jader Rafaelli Capilé Sanches
 <div height="300" width="300" style="background-color:red;">
 <p align="Justify" >
- A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia,
- as descobertas que envolvem as propriedades dos materiais podem auxiliar em funcionalidades amplas e inesperadas.
- Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na **transmissão elétrica**
- são essenciais para a existência de processos de pesquisa, economia de energia, agilidade em envio de informações, 
- nanotecnologia, metamateriais, ergonomia em ambientes tanto domésticos quanto industriais 
+ A evolução da tecnologia tem impressionado a humanidade com centenas de inventos que surgem a cada dia,</br>
+ as descobertas que envolvem as propriedades dos materiais podem auxiliar em funcionalidades amplas e inesperadas.</br>
+ Nos celulares, computadores e muitos outros eletrodomésticos, os efeitos na **transmissão elétrica** são essenciais </br>
+ para a existência de processos de pesquisa, economia de energia, agilidade em envio de informações, </br>
+ nanotecnologia, metamateriais, ergonomia em ambientes tanto domésticos quanto industriais </br>
  e culminando no ambicioso conceito de cidades inteligentes. 
 </div>
-
 </br>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Electrochromic_devices_in_bleach_state%2C_The_MSU_Baroda%2C_India.jpg"  width="200" height="200">
