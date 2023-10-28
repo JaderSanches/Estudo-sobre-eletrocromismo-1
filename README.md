@@ -33,6 +33,13 @@
  * PEDOT, Poli(3-metiltiofeno) PMT 
  * Poli(vinil-butirato)  
  
+ Segundo Oliveira, M.R.S, o material eletrocrômico é aquele que possui a capacidade de alterar sua coloração </br>
+ reversivelmente ao sofrer reações REDOX quando estimulado por uma corrente elétrica </br>
+ ou por uma diferença de potencial adequada.
+ Os ** materiais eletrocrômicos ** podem ser classificados como:
+ * Óxidos de metais de transição
+ * Materiais de intercalação
+ * Materiais orgânicos
  e outras substâncias que nos últimos anos estão começando a serem usadas em testes nos laboratórios.
  
 ## Porque pesquisar eletrocrômismo é importante?
