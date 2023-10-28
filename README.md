@@ -36,8 +36,8 @@
  Segundo *Oliveira, M.R.S,* o material eletrocrômico é aquele que possui a capacidade </br>
  de alterar sua coloração reversivelmente ao sofrer reações REDOX quando estimulado  </br>
  por uma corrente elétrica ou por uma diferença de potencial adequada. </br> 
- O homem moderno geralmente passa cerca de 80 a 90% do seu tempo dentro de edifícios e veículos, </br>
- o que torna de grande importância a qualidade desses amibientes. </br>
+ O homem moderno geralmente passa cerca de 80 a 90% do seu tempo dentro </br>
+ de edifícios e veículos, o que torna de grande importância a qualidade desses amibientes. </br>
  Claramente, existe muito a se ganhar como o desenvolvimento de tecnologias para regular os fluxos de energia </br>
  solar e luminosidade, com gasto energético mínimo, por meio da implementação de sensores eficientes </br>
  de qualidade de ar, da utilização da energia solar para a limpeza e desinfecção do ar, </br>
