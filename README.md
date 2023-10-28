@@ -43,7 +43,8 @@
  de qualidade de ar, da utilização da energia solar para a limpeza e desinfecção do ar, </br>
  da utilização de *janelas inteligentes,* as quais possam regular a luminosidade e o calor </br>
  dentro de ambientes, entre outros. </br>
- Os **materiais eletrocrômicos** podem ser classificados como:
+ 
+ ## Os **materiais eletrocrômicos** podem ser classificados como:
  </br>
  * Óxidos de metais de transição
  * Materiais de intercalação
