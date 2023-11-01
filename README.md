@@ -50,10 +50,10 @@
  * Materiais de intercalação
  * Materiais orgânicos </br>
  * Viológenos
-<div>
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Paraquat.svg"   left="300" width="200" height="200" >
- *Fonte:Wikipedia*
-</div>
+ <div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Paraquat.svg"   left="300" width="500" height="100" >
+ </div>
+ *Fonte:Wikipedia *
  * Ftalocianinas e derivados
  * Complexos de metais de transição (organometálicos)
 
