@@ -49,6 +49,9 @@
  * Óxidos de metais de transição
  * Materiais de intercalação
  * Materiais orgânicos </br>
+ <div>
+ <img src="https://pt.wikipedia.org/wiki/Viol%C3%B3geno#/media/Ficheiro:Paraquat.svg"   left="300" width="200" height="200" >
+</div>
  * Viológenos
  * Ftalocianinas e derivados
  * Complexos de metais de transição (organometálicos)
