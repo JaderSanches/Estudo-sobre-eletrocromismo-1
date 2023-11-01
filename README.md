@@ -10,12 +10,12 @@
 </br>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Electrochromic_devices_in_bleach_state%2C_The_MSU_Baroda%2C_India.jpg"  width="200" height="200">
-    
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Electrochromic_devices_in_color_state%2C_The_MSU_Baroda%2C_India.jpg"   left="300" width="200" height="200" >
 </div>
-*Fonte:wikipedia*    
-</br>
 
+ Fonte:Wikipedia
+</br>
+</br>
  O efeito **eletrocrômico** é observado em alguns materiais, sua descoberta é relativamente recente </br>
  e as aplicações previstas incluem, mudança de cor e transparência que podem servir de modos de iluminação de interiores, </br>
  acessórios informativos em espelhos ou display de celulares, tablets, smarth TV óculos de sol, evolução de um novo conceito </br>
@@ -51,9 +51,11 @@
  * Materiais orgânicos </br>
  * Viológenos
  <div>
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Paraquat.svg"   left="300" width="500" height="100" >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Paraquat.svg"   left="-50" width="500" height="100" >
  </div>
- *Fonte:Wikipedia *
+ 
+ Fonte:Wikipedia
+ </br>
  * Ftalocianinas e derivados
  * Complexos de metais de transição (organometálicos)
 
