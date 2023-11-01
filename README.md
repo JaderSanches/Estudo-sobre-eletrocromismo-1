@@ -50,7 +50,7 @@
  * Materiais de intercalação
  * Materiais orgânicos </br>
 
- <img src="https://pt.wikipedia.org/wiki/Viol%C3%B3geno#/media/Ficheiro:Paraquat.svg"   left="300" width="200" height="200" >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Paraquat.svg"   left="300" width="200" height="200" >
 
  * Viológenos
  * Ftalocianinas e derivados
