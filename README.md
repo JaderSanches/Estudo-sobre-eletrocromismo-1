@@ -13,7 +13,7 @@
     
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Electrochromic_devices_in_color_state%2C_The_MSU_Baroda%2C_India.jpg"   left="300" width="200" height="200" >
 </div>
-*Fonte: wikipedia*    
+*Fonte:wikipedia*    
 </br>
 
  O efeito **eletrocrômico** é observado em alguns materiais, sua descoberta é relativamente recente </br>
@@ -50,10 +50,10 @@
  * Materiais de intercalação
  * Materiais orgânicos </br>
  * Viológenos
-
+<div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Paraquat.svg"   left="300" width="200" height="200" >
- *Fonte: wikipedia*
-
+ *Fonte:Wikipedia*
+</div>
  * Ftalocianinas e derivados
  * Complexos de metais de transição (organometálicos)
 
