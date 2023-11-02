@@ -66,7 +66,7 @@
  aconteceu em 1930, a partir da redução de trióxido de tungstênio (WO<sub>3</sub>), </br>
  é um composto químico contendo oxigênio e o metal de transição tungstênio. </br>
  É obtido durante a recuperação do tungstênio a partir dos seus minerais. </br>
- Os minérios de tungstênio são tratados com alcalis para produzir WO<sub>3</br>
+ Os minérios de tungstênio são tratados com alcalis para produzir WO<sub>3</sub></br>
  Segundo o que *Uesley Antônio Steval* escreveu em seu artigo *Eletrossíntese de um Polímero D-A-D </br> 
  contendo Benzotiadiazol com Potencial para aplicação em Dispositivos Eletrocrômicos* </br>
  produzido em 2021 na *Universidade Tecnológica Federal do Paraná* </br> 
