@@ -61,7 +61,11 @@
 
  e outras substâncias que nos últimos anos estão começando a serem usadas em testes nos laboratórios.
  
-## Porque pesquisar eletrocrômismo é importante?
+## Qual foi o primeiro material eletrocrômico descoberto?
+ A primeira observação de mudança nas propriedades ópticas induzida eletroquimicamente </br>
+ aconteceu em 1930 a partir da redução de trióxido de tungstênio (WO<sub>3</sub>)
+
+ ## Porque pesquisar eletrocrômismo é importante?
  A proposta da realização de uma pesquisa em materiais eletrocrômicos </br>
  na atualidade consiste em averiguar a eficiência desses e outros materiais com o objetivo </br>
  de controlar sua luminosidade, cor, transparência, refração e outros atributos de interesse</br> 
