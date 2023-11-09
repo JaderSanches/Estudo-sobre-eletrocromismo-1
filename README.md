@@ -33,8 +33,8 @@
  * PEDOT, Poli(3-metiltiofeno) PMT 
  * Poli(vinil-butirato)  
  
- Segundo *Oliveira, M.R.S,* o material **eletrocrômico** é aquele que possui a capacidade </br>
- de alterar sua coloração reversivelmente ao sofrer reações REDOX quando estimulado  </br>
+ Segundo *Oliveira, M.R.S,* o material **eletrocrômico** é aquele que possui a capacidade </br> 
+ de alterar sua coloração reversivelmente ao sofrer reações REDOX quando estimulado </br>
  por uma corrente elétrica ou por uma diferença de potencial adequada. </br> 
  O homem moderno geralmente passa cerca de 80 a 90% do seu tempo dentro </br>
  de edifícios e veículos, o que torna de grande importância a qualidade desses amibientes. </br>
